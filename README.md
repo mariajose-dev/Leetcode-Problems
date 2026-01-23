@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0258-add-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
@@ -35,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
