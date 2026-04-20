@@ -5,7 +5,7 @@ class Solution(object):
         :type needle: str
         :rtype: int
         """
-        
+
         '''
         #method 1
         return haystack.find(needle)
@@ -15,8 +15,8 @@ class Solution(object):
         n = len(needle)
         m = len(haystack)
 
-        if n == 0:
-            return 0
+        if n>m:
+            return -1
 
         for i in range(m - n + 1):
             # check first and last character (your idea)
