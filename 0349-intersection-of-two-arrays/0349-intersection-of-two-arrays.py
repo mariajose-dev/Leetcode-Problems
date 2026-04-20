@@ -9,9 +9,21 @@ class Solution(object):
         #method1
         return list(set(nums1) & set(nums2)) '''  
 
+        '''
         #method2
         s1=set(nums1)
         s2=set(nums2)
 
         ans=list(s1.intersection(s2))
         return ans
+        '''
+
+        #method3
+        set2 = set(nums2)
+        result = set()
+        
+        for num in nums1:
+            if num in set2:
+                result.add(num)
+        
+        return list(result)
