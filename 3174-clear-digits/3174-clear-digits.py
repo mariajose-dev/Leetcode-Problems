@@ -4,6 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
+        '''
         stack=[]
         num_str="1234567890"
 
@@ -12,5 +13,17 @@ class Solution(object):
                 stack.pop()
             else:
                 stack.append(x)
+
+        return "".join(stack)'''
+
+        #solution2
+        stack=[]
+        
+        for x in s:
+            if x.isalpha():
+                stack.append(x)
+                
+            else:
+                stack.pop()
 
         return "".join(stack)
