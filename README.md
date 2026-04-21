@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1544-make-the-string-great](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2105-watering-plants-ii) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -112,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
