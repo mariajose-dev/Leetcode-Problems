@@ -121,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0071-simplify-path) |
+| [0232-implement-queue-using-stacks](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [1544-make-the-string-great](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3174-clear-digits) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
