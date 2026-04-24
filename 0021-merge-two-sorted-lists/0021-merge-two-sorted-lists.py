@@ -10,6 +10,7 @@ class Solution(object):
         :type list2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
+        '''
         l1=[]
         l2=[]
         lis=[]
@@ -49,5 +50,27 @@ class Solution(object):
         for val in lis:
             current.next = ListNode(val)
             current = current.next
+
+        return dummy.next
+        '''
+
+        dummy = ListNode(0)   # temporary node
+        current = dummy
+
+        while list1 and list2:
+            if list1.val < list2.val:
+                current.next = list1
+                list1 = list1.next
+            else:
+                current.next = list2
+                list2 = list2.next
+
+            current = current.next
+
+        # attach remaining nodes
+        if list1:
+            current.next = list1
+        else:
+            current.next = list2
 
         return dummy.next
