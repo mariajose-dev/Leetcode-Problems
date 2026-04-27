@@ -10,35 +10,29 @@ class Solution(object):
         :type l2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        lis1=[]
-        lis2=[]
+        stk1=[]
+        stk2=[]
 
         while l1:
-            lis1.append(l1.val)
+            stk1.append(l1.val)
             l1=l1.next
 
-        #print(lis1)
-        num1=int("".join(map(str, lis1)))
-        print(num1)
-
         while l2:
-            lis2.append(l2.val)
+            stk2.append(l2.val)
             l2=l2.next
 
-        #print(lis2)
-        num2=int("".join(map(str, lis2)))
-        print(num2)
+        carry=0
+        dummy=None
 
-        num3=num1+num2
-        print(num3)
+        while stk1 or stk2 or carry:
+            if stk1:
+                carry+=stk1.pop()
+            if stk2:
+                carry+=stk2.pop()               
 
-        lis3=list(map(int, str(num3)))
-        print(lis3)
+            node = ListNode(carry % 10)
+            node.next = dummy
+            dummy = node
+            carry=carry//10
 
-        dummy=ListNode(0)
-        temp=dummy
-
-        for item in lis3:
-            temp.next=ListNode(item)
-            temp=temp.next
-        return dummy.next
+        return dummy
