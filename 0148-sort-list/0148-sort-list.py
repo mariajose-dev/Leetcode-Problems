@@ -5,23 +5,41 @@
 #         self.next = next
 class Solution(object):
     def sortList(self, head):
-        """
-        :type head: Optional[ListNode]
-        :rtype: Optional[ListNode]
-        """
-        lis=[]
-        while head:
-            lis.append(head.val)
-            head=head.next
-        #print(lis)
+        if not head or not head.next:
+            return head
 
-        lis.sort()
-        #print(lis)
+        # find middle of linked list
+        slow, fast = head, head.next
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
 
-        dummy=ListNode(0)
-        temp=dummy
+        mid = slow.next #right linked list head/beginning position
+        slow.next = None #left linked list next part ending with None
 
-        for item in lis:
-            temp.next=ListNode(item)
-            temp=temp.next    
+        # sort halves
+        left = self.sortList(head)
+        right = self.sortList(mid)
+
+        return self.merge(left, right)
+
+    def merge(self, l1, l2):
+        dummy = ListNode(0)
+        tail = dummy
+
+        while l1 and l2:
+            if l1.val < l2.val:
+                tail.next = l1
+                l1 = l1.next
+            else:
+                tail.next = l2
+                l2 = l2.next
+            tail = tail.next
+
+        # attach remaining
+        if l1:
+            tail.next = l1
+        else:
+            tail.next = l2
+        
         return dummy.next
