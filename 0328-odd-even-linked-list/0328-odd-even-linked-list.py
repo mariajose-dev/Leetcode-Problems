@@ -14,14 +14,14 @@ class Solution(object):
 
         odd = head                 # start of odd list
         even = head.next           # start of even list
-        even_head = even           # save even head
+        even_head=head.next
 
         while even and even.next:
-            odd.next = even.next   # link next odd
-            odd = odd.next         # move odd
+            odd.next = odd.next.next  
+            even.next = even.next.next         
 
-            even.next = odd.next   # link next even
-            even = even.next       # move even
+            odd = odd.next   
+            even = even.next       
 
         odd.next = even_head       # attach even list at end
 
