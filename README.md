@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 ## Dynamic Programming
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0232-implement-queue-using-stacks](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [1544-make-the-string-great](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3174-clear-digits) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
