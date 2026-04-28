@@ -11,9 +11,8 @@ class Solution(object):
             else:
                 dic[item]=1
         print(dic)
-        flag=False
         for item in dic:
             if dic[item]>=2:
-                flag=True
-                break
-        return flag
+                return True
+
+        return False
