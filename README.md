@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1652-defuse-the-bomb](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2079-watering-plants) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1652-defuse-the-bomb](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Monotonic Stack
 |  |
