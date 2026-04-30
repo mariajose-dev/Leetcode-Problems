@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
