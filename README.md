@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2540-minimum-common-value) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2105-watering-plants-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2105-watering-plants-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
