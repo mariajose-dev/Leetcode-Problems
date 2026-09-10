@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1084-sales-analysis-iii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Sliding Window
 |  |
