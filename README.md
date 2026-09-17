@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2105-watering-plants-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2105-watering-plants-ii) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3174-clear-digits) |
