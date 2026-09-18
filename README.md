@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3005-count-elements-with-maximum-frequency](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 ## Design
 |  |
