@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1327-list-the-products-ordered-in-a-period](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1587-bank-account-summary-ii) |
+| [1757-recyclable-and-low-fat-products](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 ## Sliding Window
 |  |
 | ------- |
