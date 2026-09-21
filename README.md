@@ -615,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 ## Sliding Window
 |  |
