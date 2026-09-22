@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
+| [3842-toggle-light-bulbs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 | [3903-smallest-stable-index-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3174-clear-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
+| [3842-toggle-light-bulbs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## Number Theory
 |  |
 | ------- |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2733-neither-minimum-nor-maximum](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
 | ------- |
