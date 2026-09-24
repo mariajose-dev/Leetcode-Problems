@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3731-find-missing-elements) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
