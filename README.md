@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1741-find-total-time-spent-by-each-employee](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3570-find-books-with-no-available-copies](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3570-find-books-with-no-available-copies) |
 ## Sliding Window
 |  |
 | ------- |
