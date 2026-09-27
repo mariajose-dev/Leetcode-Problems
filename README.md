@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1108-defanging-an-ip-address](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1446-consecutive-characters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1544-make-the-string-great) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-next-greater-node-in-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
@@ -765,4 +767,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
